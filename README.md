@@ -14,6 +14,7 @@ The project aims to:
 - Perform **statistical tests** (Spearman correlation, KS test, χ²) across multiple Symphony suites  
 
 ---
+![ppsd_visual](./output/FIGURE/PPSD_visual.png)
 
 ## 🌍 Scientific Context
 The pseudo phase space density,  
