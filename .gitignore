@@ -1,9 +1,5 @@
-PPSD_accretion.ipynb
-PPSD_concentration.ipynb
 .DS_Store
-.log
 .vscode
-overplot_table
-output
-code
+overplot_table/
+output/
 debug.log
