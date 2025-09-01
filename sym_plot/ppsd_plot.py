@@ -182,7 +182,7 @@ def plot_ppsd_slope(base_dir, suite_names, plot_range=None):
         ax.set_xlim(plot_range)
 
     fig.tight_layout()
-    save_path = os.path.join(base_dir, 'figure', "ppsd_slope_profiles")
+    save_path = os.path.join(base_dir, 'figure', "ppsd_slope_profiles.pdf")
     plt.tick_params(axis='both', labelsize=13)
     plt.savefig(save_path, format="pdf")
     plt.close(fig)
